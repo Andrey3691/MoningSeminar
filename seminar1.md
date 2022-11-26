@@ -1,4 +1,4 @@
-## Git edacution
+# Git edacution. Commits
 
 *1. "git init" + коианда инацианализирующая репозиторий; 
 *2. "ctrl + s" + сохранение изменений; 
