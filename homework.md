@@ -1,4 +1,4 @@
-# GIT
+# GIT команды
 
 ## Команда git status
 
